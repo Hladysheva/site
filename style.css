@@ -1,0 +1,928 @@
+html, body{
+	padding:0;
+	margin:0;
+	font-size:14px;
+	font-family:Arial,"sans-serif";
+}
+
+html, body,div,p,h1,h2,h3{
+	padding:0;
+	margin:0;
+}
+
+a{
+	color:#fff;
+	cursor:pointer;
+	text-decoration:underline;
+}
+
+.wrap_960{
+	width:960px;
+	margin:0 auto;
+}
+
+.block{
+	position:relative;
+	background-repeat:no-repeat;
+	background-position:50% 0;
+	overflow:hidden;
+}
+
+.block-inner{
+	position:relative;
+}
+
+.wrap_960{
+	width:960px;
+	margin:0 auto;
+}
+
+.block-content{
+	position:relative;
+	padding:10px 20px 30px 10px;
+}
+
+.component{
+	padding:5px 10px;
+}
+
+.block.block-0-0{
+	background-color:#80cbc4;
+}
+
+.block.block-0-0 .block-content{
+	min-height:39px;
+}
+
+.form-component{
+	position:absolute;
+	padding:0;
+}
+
+.form-component .form-text{
+	position:relative;
+	padding:10px;
+	overflow:hidden;
+	color:#fff;
+}
+
+.form-component .form-substrate{
+	position:absolute;
+	width:100%;
+	height:100%;
+	left:0;
+	top:0;
+}
+
+.form-component.component-1-0{
+	left:739px;
+	top:11px;
+	z-index:100;
+}
+
+.form-component.component-1-0 .form-substrate{
+	background-color:#000000;
+	opacity:0;
+}
+
+.form-component.component-1-0 .form-text{
+	width:204px;
+	height:20px;
+}
+
+.component-1-0 .component-1-0-decor-class-0{
+	font-size:16px;
+}
+
+.component-1-0 .component-1-0-decor-class-1{
+	font-family:comic sans ms,cursive;
+}
+
+.form-image-component{
+	position:absolute;
+	padding:0;
+	z-index:100;
+}
+
+.form-image-component img{
+	border:none;
+	outline:none;
+	position:absolute;
+	width:100%;
+	height:100%;
+}
+
+.form-image-component.component-2-0{
+	left:1px;
+	top:0px;
+	width:298px;
+	height:75px;
+}
+
+.form-image-component.component-2-0 img{
+	opacity:1;
+}
+
+.block.block-1-0{
+	background-color:#009688;
+}
+
+.block.block-1-0 .block-content{
+	min-height:32px;
+}
+
+.form-component.component-0-1{
+	left:11px;
+	top:9px;
+	z-index:100;
+}
+
+.form-component.component-0-1 .form-substrate{
+	background-color:#000000;
+	opacity:0;
+}
+
+.form-component.component-0-1 .form-text{
+	width:173px;
+	height:33px;
+}
+
+.component-0-1 .component-0-1-decor-class-0{
+	text-align: center;
+}
+
+.form-component.component-1-1{
+	left:177px;
+	top:10px;
+	z-index:100;
+}
+
+.form-component.component-1-1 .form-substrate{
+	background-color:#000000;
+	opacity:0;
+}
+
+.form-component.component-1-1 .form-text{
+	width:190px;
+	height:34px;
+}
+
+.component-1-1 .component-1-1-decor-class-0{
+	text-align:center;
+}
+
+.form-component.component-2-1{
+	left:377px;
+	top:11px;
+	z-index:100;
+}
+
+.form-component.component-2-1 .form-substrate{
+	background-color:#000000;
+	opacity:0;
+}
+
+.form-component.component-2-1 .form-text{
+	width:147px;
+	height:30px;
+}
+
+.component-2-1 .component-2-1-decor-class-0{
+	text-align: center;
+}
+
+.component-2-1 .component-2-1-decor-class-1{
+	font-size:24px;
+}
+
+.form-component.component-3-1{
+	left:720px;
+	top:11px;
+	z-index:100;
+}
+
+.form-component.component-3-1 .form-substrate{
+	background-color:#000000;
+	opacity:0;
+}
+
+.form-component.component-3-1 .form-text{
+	width:223px;
+	height:30px;
+}
+
+.component-3-1 .component-3-1-decor-class-0{
+	text-align: center;
+}
+
+.component-3-1 .component-3-1-decor-class-1{
+	font-size:24px;
+}
+
+.form-component.component-4-1{
+	left:563px;
+	top:12px;
+	z-index:100;
+}
+
+.form-component.component-4-1 .form-substrate{
+	background-color:#000000;
+	opacity:0;
+}
+
+.form-component.component-4-1 .form-text{
+	width:138px;
+	height:31px;
+}
+
+.component-4-1 .component-4-1-decor-class-0{
+	font-size:24px;
+}
+
+.block.block-2-0{
+	background-color:#80cbc4;
+}
+
+.block.block-2-0 .block-content{
+	min-height:477px;
+}
+
+.form-component.component-0-2{
+	left:1px;
+	top:12px;
+	z-index:100;
+}
+
+.form-component.component-0-2 .form-substrate{
+	background-color:#cab68e;
+	opacity:1;
+}
+
+.form-component.component-0-2 .form-text{
+	width:300px;
+	height:356px;
+}
+
+.component-0-2 .component-0-2-decor-class-0{
+	color:#A19171;
+}
+
+.component-0-2 .component-0-2-decor-class-1{
+	font-size:24px;
+}
+
+.component-0-2 .component-0-2-decor-class-2{
+	background-color:#80CBC4;
+}
+
+.form-component.component-1-2{
+	left:1px;
+	top:58px;
+	z-index:105;
+}
+
+.form-component.component-1-2 .form-substrate{
+	background-color:#cab68e;
+	opacity:0;
+}
+
+.form-component.component-1-2 .form-text{
+	width:300px;
+	height:318px;
+}
+
+.component-1-2 .component-1-2-decor-class-0{
+	font-family:arial,helvetica,sans-serif;
+}
+
+.form-component.component-2-2{
+	left:337px;
+	top:16px;
+	z-index:100;
+}
+
+.form-component.component-2-2 .form-substrate{
+	background-color:#e5663e;
+	opacity:1;
+}
+
+.form-component.component-2-2 .form-text{
+	width:408px;
+	height:97px;
+}
+
+.component-2-2 .component-2-2-decor-class-0{
+	font-size:18px;
+}
+
+.form-component.component-4-2{
+	left:338px;
+	top:146px;
+	z-index:100;
+}
+
+.form-component.component-4-2 .form-substrate{
+	background-color:#f1a11d;
+	opacity:1;
+}
+
+.form-component.component-4-2 .form-text{
+	width:605px;
+	height:224px;
+}
+
+.form-image-component.component-5-2{
+	left:772px;
+	top:16px;
+	width:191px;
+	height:118px;
+}
+
+.form-image-component.component-5-2 img{
+	opacity:1;
+}
+
+.block.block-3-0{
+	background-color:#00695c;
+}
+
+.block.block-3-0 .block-content{
+	min-height:632px;
+}
+
+.form-component.component-0-3{
+	left:1px;
+	top:0px;
+	z-index:100;
+}
+
+.form-component.component-0-3 .form-substrate{
+	background-color:#000000;
+	opacity:1;
+}
+
+.form-component.component-0-3 .form-text{
+	width:88px;
+	height:24px;
+}
+
+.component-0-3 .component-0-3-decor-class-0{
+	font-size:24px;
+}
+
+.form-component.component-1-3{
+	left:1px;
+	top:52px;
+	z-index:100;
+}
+
+.form-component.component-1-3 .form-substrate{
+	background-color:#c6f364;
+	opacity:1;
+}
+
+.form-component.component-1-3 .form-text{
+	width:300px;
+	height:570px;
+}
+
+.component-1-3 .component-1-3-decor-class-0{
+	color:#000000;
+}
+
+.form-component.component-2-3{
+	left:643px;
+	top:53px;
+	z-index:100;
+}
+
+.form-component.component-2-3 .form-substrate{
+	background-color:#4eccc3;
+	opacity:1;
+}
+
+.form-component.component-2-3 .form-text{
+	width:300px;
+	height:569px;
+}
+
+.component-2-3 .component-2-3-decor-class-0{
+	color:#000000;
+}
+
+.form-image-component.component-3-3{
+	left:345.5px;
+	top:53px;
+	width:273px;
+	height:152px;
+}
+
+.form-image-component.component-3-3 img{
+	opacity:1;
+}
+
+.form-component.component-4-3{
+	left:343px;
+	top:224px;
+	z-index:100;
+}
+
+.form-component.component-4-3 .form-substrate{
+	background-color:#ff6b6b;
+	opacity:1;
+}
+
+.form-component.component-4-3 .form-text{
+	width:257px;
+	height:398px;
+}
+
+.component-4-3 .component-4-3-decor-class-0{
+	color:#000000;
+}
+
+.block.block-4-0{
+	background-color:#00b8d4;
+}
+
+.block.block-4-0 .block-content{
+	min-height:632px;
+}
+
+.form-image-component.component-0-4{
+	left:1px;
+	top:68px;
+	width:164px;
+	height:157px;
+}
+
+.form-image-component.component-0-4 img{
+	opacity:1;
+}
+
+.form-component.component-1-4{
+	left:204px;
+	top:68px;
+	z-index:100;
+}
+
+.form-component.component-1-4 .form-substrate{
+	background-color:#bb3b47;
+	opacity:1;
+}
+
+.form-component.component-1-4 .form-text{
+	width:739px;
+	height:140px;
+}
+
+.component-1-4 .component-1-4-decor-class-0{
+	text-align: right;
+}
+
+.form-image-component.component-2-4{
+	left:799px;
+	top:271px;
+	width:164px;
+	height:157px;
+}
+
+.form-image-component.component-2-4 img{
+	opacity:1;
+}
+
+.form-component.component-3-4{
+	left:2px;
+	top:273px;
+	z-index:100;
+}
+
+.form-component.component-3-4 .form-substrate{
+	background-color:#3e7683;
+	opacity:1;
+}
+
+.form-component.component-3-4 .form-text{
+	width:746px;
+	height:137px;
+}
+
+.form-image-component.component-4-4{
+	left:1px;
+	top:481px;
+	width:163px;
+	height:158px;
+}
+
+.form-image-component.component-4-4 img{
+	opacity:1;
+}
+
+.form-component.component-5-4{
+	left:197px;
+	top:480px;
+	z-index:100;
+}
+
+.form-component.component-5-4 .form-substrate{
+	background-color:#f46235;
+	opacity:1;
+}
+
+.form-component.component-5-4 .form-text{
+	width:746px;
+	height:141px;
+}
+
+.component-5-4 .component-5-4-decor-class-0{
+	text-align: right;
+}
+
+.form-component.component-6-4{
+	left:1px;
+	top:0px;
+	z-index:100;
+}
+
+.form-component.component-6-4 .form-substrate{
+	background-color:#000000;
+	opacity:1;
+}
+
+.form-component.component-6-4 .form-text{
+	width:62px;
+	height:20px;
+}
+
+.component-6-4 .component-6-4-decor-class-0{
+	font-size:20px;
+}
+
+.block.block-5-0{
+	background-color:#00838f;
+}
+
+.block.block-5-0 .block-content{
+	min-height:654px;
+}
+
+.form-component.component-0-5{
+	left:1px;
+	top:0px;
+	z-index:100;
+}
+
+.form-component.component-0-5 .form-substrate{
+	background-color:#000000;
+	opacity:1;
+}
+
+.form-component.component-0-5 .form-text{
+	width:105px;
+	height:22px;
+}
+
+.component-0-5 .component-0-5-decor-class-0{
+	font-size:20px;
+}
+
+.form-image-component.component-1-5{
+	left:1px;
+	top:64px;
+	width:255px;
+	height:231px;
+}
+
+.form-image-component.component-1-5 img{
+	opacity:1;
+}
+
+.form-image-component.component-2-5{
+	left:354px;
+	top:63px;
+	width:256px;
+	height:234px;
+}
+
+.form-image-component.component-2-5 img{
+	opacity:1;
+}
+
+.form-image-component.component-3-5{
+	left:710px;
+	top:66px;
+	width:253px;
+	height:234px;
+}
+
+.form-image-component.component-3-5 img{
+	opacity:1;
+}
+
+.form-component.component-4-5{
+	left:1px;
+	top:340px;
+	z-index:100;
+}
+
+.form-component.component-4-5 .form-substrate{
+	background-color:#fc8389;
+	opacity:1;
+}
+
+.form-component.component-4-5 .form-text{
+	width:234px;
+	height:296px;
+}
+
+.component-4-5 .component-4-5-decor-class-0{
+	text-align: right;
+}
+
+.component-4-5 .component-4-5-decor-class-1{
+	color:#000000;
+}
+
+.component-4-5 .component-4-5-decor-class-2{
+	font-size:22px;
+}
+
+.component-4-5 .component-4-5-decor-class-9{
+	font-size:18px;
+}
+
+.form-component.component-5-5{
+	left:354px;
+	top:339px;
+	z-index:100;
+}
+
+.form-component.component-5-5 .form-substrate{
+	background-color:#f64365;
+	opacity:1;
+}
+
+.form-component.component-5-5 .form-text{
+	width:236px;
+	height:298px;
+}
+
+.component-5-5 .component-5-5-decor-class-0{
+	text-align:center;
+}
+
+.component-5-5 .component-5-5-decor-class-1{
+	color:#000000;
+}
+
+.component-5-5 .component-5-5-decor-class-2{
+	font-size:24px;
+}
+
+.component-5-5 .component-5-5-decor-class-10{
+	font-size:18px;
+}
+
+.form-component.component-6-5{
+	left:707px;
+	top:338px;
+	z-index:100;
+}
+
+.form-component.component-6-5 .form-substrate{
+	background-color:#f2d469;
+	opacity:1;
+}
+
+.form-component.component-6-5 .form-text{
+	width:236px;
+	height:298px;
+}
+
+.component-6-5 .component-6-5-decor-class-0{
+	color:#000000;
+}
+
+.component-6-5 .component-6-5-decor-class-1{
+	font-size:24px;
+}
+
+.component-6-5 .component-6-5-decor-class-2{
+	font-size:18px;
+}
+
+.block.block-6-0{
+	background-color:#000000;
+}
+
+.block.block-6-0 .block-content{
+	min-height:533px;
+}
+
+.form-component.component-0-6{
+	left:1px;
+	top:0px;
+	z-index:100;
+}
+
+.form-component.component-0-6 .form-substrate{
+	background-color:#000000;
+	opacity:0.75;
+}
+
+.form-component.component-0-6 .form-text{
+	width:142px;
+	height:21px;
+}
+
+.component-0-6 .component-0-6-decor-class-0{
+	text-align: center;
+}
+
+.component-0-6 .component-0-6-decor-class-1{
+	font-size:20px;
+}
+
+.form-component.component-1-6{
+	left:1px;
+	top:103px;
+	z-index:100;
+}
+
+.form-component.component-1-6 .form-substrate{
+	background-color:#ffffff;
+	opacity:0.75;
+}
+
+.form-component.component-1-6 .form-text{
+	width:300px;
+	height:171px;
+}
+
+.component-1-6 .component-1-6-decor-class-0{
+	font-size:18px;
+}
+
+.component-1-6 .component-1-6-decor-class-1{
+	color:#000000;
+}
+
+.form-component.component-2-6{
+	left:523px;
+	top:103px;
+	z-index:100;
+}
+
+.form-component.component-2-6 .form-substrate{
+	background-color:#ffffff;
+	opacity:0.75;
+}
+
+.form-component.component-2-6 .form-text{
+	width:420px;
+	height:22px;
+}
+
+.component-2-6 .component-2-6-decor-class-0{
+	text-align:center;
+}
+
+.component-2-6 .component-2-6-decor-class-1{
+	color:#000000;
+}
+
+.component-2-6 .component-2-6-decor-class-2{
+	font-size:22px;
+}
+
+.form-component.component-3-6{
+	left:525px;
+	top:159px;
+	z-index:100;
+}
+
+.form-component.component-3-6 .form-substrate{
+	background-color:#ffffff;
+	opacity:0.75;
+}
+
+.form-component.component-3-6 .form-text{
+	width:418px;
+	height:234px;
+}
+
+.form-component.component-4-6{
+	left:535px;
+	top:172px;
+	z-index:100;
+}
+
+.form-component.component-4-6 .form-substrate{
+	background-color:#000000;
+	opacity:0.75;
+}
+
+.form-component.component-4-6 .form-text{
+	width:396px;
+	height:22px;
+}
+
+.component-4-6 .component-4-6-decor-class-0{
+	font-size:16px;
+}
+
+.form-component.component-5-6{
+	left:537px;
+	top:235px;
+	z-index:100;
+}
+
+.form-component.component-5-6 .form-substrate{
+	background-color:#000000;
+	opacity:0.75;
+}
+
+.form-component.component-5-6 .form-text{
+	width:394px;
+	height:22px;
+}
+
+.component-5-6 .component-5-6-decor-class-0{
+	font-size:16px;
+}
+
+.form-component.component-6-6{
+	left:537px;
+	top:288px;
+	z-index:100;
+}
+
+.form-component.component-6-6 .form-substrate{
+	background-color:#000000;
+	opacity:0.75;
+}
+
+.form-component.component-6-6 .form-text{
+	width:394px;
+	height:92px;
+}
+
+.form-component.component-7-6{
+	left:456px;
+	top:367px;
+	z-index:100;
+}
+
+.form-component.component-7-6 .form-substrate{
+	background-color:#ffffff;
+	opacity:0.75;
+}
+
+.form-component.component-7-6 .form-text{
+	width:36px;
+	height:25px;
+}
+
+.component-7-6 .component-7-6-decor-class-0{
+	color:#000000;
+}
+
+.component-7-6 .component-7-6-decor-class-1{
+	font-size:24px;
+}
+
+.form-component.component-8-6{
+	left:1px;
+	top:539px;
+	z-index:100;
+}
+
+.form-component.component-8-6 .form-substrate{
+	background-color:#000000;
+	opacity:0.75;
+}
+
+.form-component.component-8-6 .form-text{
+	width:414px;
+	height:15px;
+}
+
+.form-component.component-9-6{
+	left:734px;
+	top:539px;
+	z-index:100;
+}
+
+.form-component.component-9-6 .form-substrate{
+	background-color:#000000;
+	opacity:0.75;
+}
+
+.form-component.component-9-6 .form-text{
+	width:209px;
+	height:15px;
+}
+
+.component-9-6 .component-9-6-decor-class-0{
+	text-align: right;
+}
